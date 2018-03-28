@@ -1,2 +1,3 @@
 hello
 Guys hello
+  1640	Mar 28 23:19:49 U77 udisksd[2133]: Error performing housekeeping for drive /org/freedesktop/UDisks2/drives/SPCC_Solid_State_Disk_P1702614000000023048: Error updating SMART data: sk_disk_smart_read_data: Input/output error (udisks-error-quark, 0)
